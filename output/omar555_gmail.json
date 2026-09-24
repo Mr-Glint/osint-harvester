@@ -1,0 +1,583 @@
+{
+  "search_term": "omar555@gmail.com",
+  "total_records": 50,
+  "accessible": 0,
+  "preview": 1,
+  "pro_redacted": 49,
+  "records_extracted": 1,
+  "unique_emails": [
+    "dc_wannabe@verizon.net",
+    "comprespub@aol.com",
+    "olivia_neveau@hotmail.co.uk",
+    "inevermeanttobrag@aol.com",
+    "ques_14@yahoo.com",
+    "paulina_om@hotmail.com",
+    "my_heart_will_go_on@live.com",
+    "tripblock14@bellsouth.net",
+    "heygurlhey@aol.com",
+    "MSophia@gmx.de",
+    "fliygir@yahoo.com"
+  ],
+  "unique_pairs": [
+    [
+      "inevermeanttobrag@aol.com",
+      "arganandapudgins:0xFFC4A5BBEF280B69BA70E656591B7DE3C4639AFD:&#39;&#39;"
+    ],
+    [
+      "ques_14@yahoo.com",
+      "37:&#39;&#39;"
+    ],
+    [
+      "paulina_om@hotmail.com",
+      "D2:&#39;&#39;"
+    ],
+    [
+      "olivia_neveau@hotmail.co.uk",
+      "17:&#39;&#39;"
+    ],
+    [
+      "comprespub@aol.com",
+      "ED:&#39;&#39;"
+    ],
+    [
+      "dc_wannabe@verizon.net",
+      "A3:&#39;&#39;"
+    ],
+    [
+      "heygurlhey@aol.com",
+      "11:&#39;&#39;"
+    ],
+    [
+      "MSophia@gmx.de",
+      "greensofaaa:0xE50E59735CB6DF29032E54CD4D0A0186A52FBA25:&#39;&#39;"
+    ],
+    [
+      "my_heart_will_go_on@live.com",
+      "jessi_is_really_sexi:0xDEACD490525C98FB72E69C1017275CAE36B93F66:&#39;&#39;"
+    ],
+    [
+      "fliygir@yahoo.com",
+      "0C:&#39;&#39;"
+    ],
+    [
+      "tripblock14@bellsouth.net",
+      "93:&#39;&#39;"
+    ]
+  ],
+  "extracted_data": [
+    {
+      "name": "MySpace.com 2008.txt [Part 3761 of 8422]",
+      "date": "2019-12-10T00:00:01.360559Z",
+      "bucket": "Leaks » Public » General",
+      "media": "Text File",
+      "size": 4194181,
+      "systemid": "408a9010-ae2f-491a-a5f3-b586f9b85f7c",
+      "content_length": 12373,
+      "emails_found": 11,
+      "pairs_found": 11,
+      "content_preview": "290319819:MSophia@gmx.de:greensofaaa:0xE50E59735CB6DF29032E54CD4D0A0186A52FBA25:&#39;&#39;\r\n290319820:dc_wannabe@verizon.net:A3:&#39;&#39;\r\n290319826:inevermeanttobrag@aol.com:arganandapudgins:0xFFC4A5BBEF280B69BA70E656591B7DE3C4639AFD:&#39;&#39;\r\n290319836:paulina_om@hotmail.com:D2:&#39;&#39;\r\n290319837:heygurlhey@aol.com:11:&#39;&#39;\r\n290319841:tripblock14@bellsouth.net:93:&#39;&#39;\r\n290319843:fliygir@yahoo.com:0C:&#39;&#39;\r\n290319844:comprespub@aol.com:ED:&#39;&#39;\r\n290319845:olivia_neveau@hotmail.co.uk:17:&#39;&#39;\r\n290319847:my_heart_will_go_on@live.com:jessi_is_really_sexi:0xDEACD490525C98FB72E69C1017275CAE36B93F66:&#39;&#39;\r\n290319848:ques_14@yahoo.com:37:&#39;&#39;\r\n█████████████████████████████████████████████████████████████████████████████████████████████\r\n████████████████████████████████████████████████████████████████████████████████████\r\n███████████████████████████████████████████████████████████████████████████████████████████████\r\n██████████████████████████████████████████████████████████████████████████████████████████████\r\n███████████████████████████████████████████████████████████████████████████████████████████\r\n██████████████████████████████████████████████████████████████████████████████████████\r\n███████████████████████████████████████████████████████████████████████████████████████████████\r\n███████████████████████████████████████████████████████████████████████████████████████\r\n█████████████████████████████████████████████████████████████████████████████████████████████\r\n███████████████████████████████████████████████████████████████████████████"
+    }
+  ],
+  "all_records": [
+    {
+      "name": "11.1KK CRYPTO DUMPM  MIX.txt.txt [Part 46 of 86]",
+      "date": "2022-12-08T10:31:12.769967Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "f94a8632-caed-421a-9e1c-db46f080734b",
+      "size": 4194290
+    },
+    {
+      "name": "11 000 000 CRYPTO-DUMP.txt [Part 78 of 84]",
+      "date": "2022-12-08T10:30:08.529834Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "72ddba5b-0b0b-4356-bddc-e4c0a236b542",
+      "size": 4194287
+    },
+    {
+      "name": "Flingemailpass.txt [Part 322 of 323]",
+      "date": "2022-01-17T06:59:37.500201Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "0f9b1bee-1029-4819-8367-2127af5ffc4d",
+      "size": 4194280
+    },
+    {
+      "name": "11.1KK CRYPTO DUMPM  MIX.txt.txt [Part 65 of 86]",
+      "date": "2022-12-08T10:31:15.841862Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "4d85e443-38e0-44b3-9194-1770073eba21",
+      "size": 4194294
+    },
+    {
+      "name": "gmail 100KK MailPass.txt [Part 173 of 875]",
+      "date": "2023-06-18T08:27:35.482261Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "7f883544-db30-4814-ad08-803f3a608488",
+      "size": 4194283
+    },
+    {
+      "name": "Collection_ANTIWAR.zip/mail_RU_part8.txt [Part 45 of 58]",
+      "date": "2022-02-28T21:33:32.569725Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "6a2b08c9-228a-4b37-ae66-29c1c2257151",
+      "size": 4194297
+    },
+    {
+      "name": "22m.txt [Part 26 of 176]",
+      "date": "2023-09-26T15:05:28.975468Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "8314d6ac-4c59-41fe-ab49-d329b009235e",
+      "size": 4194301
+    },
+    {
+      "name": "AP (8).txt [Part 638 of 857]",
+      "date": "2023-06-26T13:54:32.244304Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "90dc25b8-867b-4fe4-a729-d71210aad145",
+      "size": 4194286
+    },
+    {
+      "name": "11.1KK CRYPTO DUMPM  MIX.txt.txt [Part 35 of 86]",
+      "date": "2022-12-08T10:31:10.745066Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "90588cfb-0cf5-4ee2-a17f-fefebd98509e",
+      "size": 4194280
+    },
+    {
+      "name": "66.386.061.txt [Part 2 of 937]",
+      "date": "2026-07-09T22:31:03.035924Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "79bdedfd-d511-4550-92ff-5ab7646c6eed",
+      "size": 4193768
+    },
+    {
+      "name": "OnlinerSpambot/data/base/mailing_list_17mln_CL_bw_4_bw_4_a22.txt [Part 15 of 21]",
+      "date": "2025-03-19T13:49:36.449739Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "5d25af5d-02a1-414d-bbc4-a8aae16fa465",
+      "size": 4194300
+    },
+    {
+      "name": "Alshref.com 900k.txt [Part 5 of 26]",
+      "date": "2024-09-25T13:45:44.570816Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "59c81abd-8346-468c-abc5-ff1f3ce84d43",
+      "size": 4194296
+    },
+    {
+      "name": "gmail (2).rar/gmail.txt [Part 369 of 1259]",
+      "date": "2023-09-11T01:31:47.044075Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "577aed78-2be3-417a-90ad-19b441994c48",
+      "size": 4194276
+    },
+    {
+      "name": "Twitter Full/data/Hits (6).txt [Part 1831 of 2101]",
+      "date": "2023-07-13T19:46:55.504757Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "f5f4fd7b-bc72-432f-a9da-0e4e3f7a6a82",
+      "size": 4194213
+    },
+    {
+      "name": "5KK Crypta_normalized.txt [Part 15 of 40]",
+      "date": "2023-07-06T21:24:35.659088Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "bd17cee6-4234-4309-9fa5-3e5babd044ab",
+      "size": 4194285
+    },
+    {
+      "name": "Alshref.com 900k.txt [Part 5 of 26]",
+      "date": "2023-06-18T07:54:31.885376Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "b13b219c-2df3-4c88-9d9b-86fc63863842",
+      "size": 4194233
+    },
+    {
+      "name": "Deezer.rar/data/Users/Users_5.csv [Part 440 of 1537]",
+      "date": "2023-01-28T20:19:26.010321Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "CSV File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "105e2613-9099-4869-ae7e-201c275916cd",
+      "size": 4194298
+    },
+    {
+      "name": "11 000 000 CRYPTO-DUMP.txt [Part 38 of 84]",
+      "date": "2022-12-08T10:30:04.290901Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "c9b215ee-867e-4f79-86fa-facdc50a3927",
+      "size": 4194291
+    },
+    {
+      "name": "11 000 000 CRYPTO-DUMP.txt [Part 2 of 84]",
+      "date": "2022-12-08T10:30:00.589768Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "6c4d1f5f-9977-4bcb-95a7-0c62d7f22ec8",
+      "size": 4194292
+    },
+    {
+      "name": "rfchad.rar/datpiff.txt [Part 44 of 181]",
+      "date": "2021-12-28T06:01:25.045797Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "b631ebf2-2e22-46e8-a954-6fdeb14ee7fd",
+      "size": 4194245
+    },
+    {
+      "name": "OnlinerSpambot/data/emails_sorted.txt [Part 501 of 728]",
+      "date": "2025-03-19T13:48:24.005097Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "3ab2956c-7299-4491-b805-94c06cd94c36",
+      "size": 4194294
+    },
+    {
+      "name": "MULO/MULO2.txt [Part 943 of 2049]",
+      "date": "2023-08-30T00:25:14.502089Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "afa17bbe-dd47-4a70-ab5c-27e29d0fc4fd",
+      "size": 4194289
+    },
+    {
+      "name": "Deezer.rar/data/final_split/part-00149-tid-1633079247229953688-d0db9eea-dc20-44c6-b353-392033ec151d-61069-1-c000.csv [Part 104 of 248]",
+      "date": "2023-01-19T13:38:59.596415Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "CSV File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "96b8af5d-c272-4136-ae0a-0cc31f62f3bf",
+      "size": 4194222
+    },
+    {
+      "name": "11 000 000 DUMP.txt [Part 82 of 86]",
+      "date": "2022-12-08T10:30:50.749945Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "d856a068-3241-463f-9099-b9401df42815",
+      "size": 4194276
+    },
+    {
+      "name": "11 000 000 DUMP.txt [Part 69 of 86]",
+      "date": "2022-12-08T10:30:49.573931Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "522c9f46-20ba-4fe5-a501-a22e8cb509b9",
+      "size": 4194301
+    },
+    {
+      "name": "OnlinerSpambot.rar/data/emails_sorted.txt [Part 479 of 697]",
+      "date": "2022-11-30T16:02:43.587036Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "7b4e3686-657f-4ea0-91ef-9d590770ff3c",
+      "size": 4194299
+    },
+    {
+      "name": "Altenen.rar/data/emails.txt [Part 5 of 7]",
+      "date": "2022-10-18T07:47:49.514351Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "b711b7ca-65be-4079-a11d-fb441783640e",
+      "size": 4194296
+    },
+    {
+      "name": "Avito.ma_2022_2,7kk.sql [Part 102 of 179]",
+      "date": "2024-06-18T10:21:11.026945Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Database File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "28f155ff-c574-4007-800d-c0c5567f76b9",
+      "size": 4194173
+    },
+    {
+      "name": "gmail (2).rar/gmail.txt [Part 1159 of 1259]",
+      "date": "2023-09-11T01:34:05.856305Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "a23b93b4-3708-4f01-8166-ebc7eee21799",
+      "size": 4194279
+    },
+    {
+      "name": "Twitter Full/data/Hits (9).3.txt [Part 763 of 1537]",
+      "date": "2023-07-13T19:53:23.568673Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "a56a64cb-f038-4a48-9df1-1f87ed549b6a",
+      "size": 4194257
+    },
+    {
+      "name": "verifications.io.rar/emailrecords.bson.json_19.txt [Part 1531 of 1537]",
+      "date": "2023-02-10T16:11:02.825543Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "42d263a4-3119-4d3c-a905-1740755acc2f",
+      "size": 4194281
+    },
+    {
+      "name": "Altenen.rar/data/Altenens.is/All_Users-PartB.csv [Part 1 of 22]",
+      "date": "2022-10-18T07:47:40.335833Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "CSV File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "c17c598b-0bf4-4813-9c0a-175510c3b14c",
+      "size": 4194299
+    },
+    {
+      "name": "onliner_spambot.rar/base/mailing_list_17mln_CL_bw_4_bw_4_a22.txt [Part 14 of 20]",
+      "date": "2021-04-21T13:15:14.536968Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "4655687f-89cd-400e-aab7-789c540aa73d",
+      "size": 4194299
+    },
+    {
+      "name": "MySpace.com 2008.txt [Part 3761 of 8422]",
+      "date": "2019-12-10T00:00:01.360559Z",
+      "bucket": "Leaks » Public » General",
+      "media": "Text File",
+      "accesslevel": 4,
+      "accesslevelh": "Preview",
+      "systemid": "408a9010-ae2f-491a-a5f3-b586f9b85f7c",
+      "size": 4194181
+    },
+    {
+      "name": "CompilationOfManyBreaches/data/o/m.txt [Part 4 of 21]",
+      "date": "2021-02-15T03:00:23.194695Z",
+      "bucket": "Leaks » Restricted » Compilation",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "e6fd527a-b467-4443-9909-7b8a6b9d6bc1",
+      "size": 4194271
+    },
+    {
+      "name": "Collection #2-#5 &amp; Antipublic/AP MYR &amp; ZABUGOR #2_EU + RUSSIAN ANTIPUBLIC.tar.gz/AP MYR &amp; ZABUGOR #2_EU + RUSSIAN ANTIPUBLIC/33.txt [Part 63 of 82]",
+      "date": "2019-01-17T18:45:01Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "fddf325f-174f-43ed-b093-4c5c09723fb6",
+      "size": 4194297
+    },
+    {
+      "name": "badoo 2013.txt [Part 2286 of 3899]",
+      "date": "2020-06-06T13:40:01.303671Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "3fa75079-f800-48b5-bfe5-cfeb37447fe6",
+      "size": 4194304
+    },
+    {
+      "name": "fling.com.4.txt [Part 189 of 200]",
+      "date": "2021-03-24T09:12:31.101137Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "3bb415fd-29b2-4848-a620-49b759163f77",
+      "size": 4177034
+    },
+    {
+      "name": "ULP @HUBHEAD 21KK 34.txt [Part 273 of 372]",
+      "date": "2025-09-16T10:15:14.907197Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "8ce04337-9104-4392-8ece-e85b0293fb14",
+      "size": 4194173
+    },
+    {
+      "name": "fling.com_40M_users.sql [Part 3273 of 3284]",
+      "date": "2025-01-31T20:02:45.379782Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Database File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "bafb0fce-7e79-4030-8b21-65bbc3f9bbcb",
+      "size": 4176869
+    },
+    {
+      "name": "avito-jeKOVus5.sql [Part 313 of 549]",
+      "date": "2023-02-26T19:48:20.413013Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Database File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "56af4ba5-85a4-442c-a26e-0481bb0f918b",
+      "size": 4194294
+    },
+    {
+      "name": "@POWERCLOUDNEW PRIVATE TXT #9.txt [Part 262 of 1631]",
+      "date": "2025-09-04T10:06:52.047834Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "27d21f9f-bc66-4b85-9b45-5136a2ca62a2",
+      "size": 4194271
+    },
+    {
+      "name": "57m_URLPW_BY_LB.SB_PART_23-30.rar/57m_URLPW_BY_LB.SB_PART_23-30.txt [Part 99 of 991]",
+      "date": "2025-01-26T06:11:57.075529Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "7e288f29-44e0-4aa7-abf5-860ff0abffb6",
+      "size": 4194289
+    },
+    {
+      "name": "90kk_URLPW_LB.SB_Part_11-30.rar/90kk_URLPW_LB.SB_Part_11-30.txt [Part 1487 of 1514]",
+      "date": "2025-01-24T16:40:57.726728Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "a91bc168-23ee-41fa-b4b9-d4fb8724e387",
+      "size": 4194299
+    },
+    {
+      "name": "#2_@SNATCH_CLOUD.txt [Part 484 of 673]",
+      "date": "2026-06-05T22:56:17.451932Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "87ff8a20-7485-4aa1-8ff8-29100395de5d",
+      "size": 4194268
+    },
+    {
+      "name": "Collection #2-#5 &amp; Antipublic/Collection #3.tar.gz/Collection #3/fling.com_40M_users.sql [Part 3273 of 3284]",
+      "date": "2019-01-18T01:46:04Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Database File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "b062c619-9745-4b1f-940b-cbcfd96a5b53",
+      "size": 4176865
+    },
+    {
+      "name": "EG_102.43.8.132_2022-10-26T22_36_05.484Z.rar/passwords.txt",
+      "date": "2022-11-04T11:22:08.264619Z",
+      "bucket": "Leaks » Logs",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "53b28cf9-dfe4-4e57-86d7-e95d33da2eb1",
+      "size": 6888
+    },
+    {
+      "name": "@KURTXT_ULP BONUS ULP 3GB 70% PRIVATE/LOGS.txt [Part 454 of 795]",
+      "date": "2025-09-04T10:00:37.718903Z",
+      "bucket": "Leaks » Restricted » General",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "38d1ba6d-d46b-4107-9b73-777c8b1562b4",
+      "size": 4194302
+    },
+    {
+      "name": "41[693AC91D98DAE622B814D517816B1C86][10-06-2025-17_25_30].rar/Edge/Default/Autofills.txt",
+      "date": "2025-06-17T13:31:19.681007Z",
+      "bucket": "Leaks » Logs",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "15d292cd-1d2e-4f29-b3bc-a615d0ea42ae",
+      "size": 21822
+    },
+    {
+      "name": "20420_EG.rar/passwords.txt",
+      "date": "2026-06-22T15:41:52.146887Z",
+      "bucket": "Leaks » Logs",
+      "media": "Text File",
+      "accesslevel": 6,
+      "accesslevelh": "Redacted",
+      "systemid": "f1411261-e6ab-4767-9189-1fbe0e61a07b",
+      "size": 20070
+    }
+  ]
+}
